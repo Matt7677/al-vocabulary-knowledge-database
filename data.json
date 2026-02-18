@@ -1,16 +1,18 @@
-    [
-        {
-            "aid": 125428,
-            "title": "\u5929\u7a7a\u4fb5\u72af",
-            "total_episodes": 12,
-            "stats": {
-                "coverage_percentage": 73.79,
-                "vocabulary_percentage": 38.11,
-                "unique_total": 2619,
-                "unique_known": 998,
-                "unique_new": 1621,
-                "total_tokens": 19004,
-                "known_tokens": 14023
-            }
+[
+    {
+        "aid": 125428,
+        "title": "\u5929\u7a7a\u4fb5\u72af",
+        "total_episodes": 12,
+        "stats": {
+            "coverage_percentage": 73.79,
+            "vocabulary_percentage": 38.11,
+            "avg_known_per_episode": 60.2,
+            "avg_coverage_per_episode": 74.2,
+            "unique_total": 2619,
+            "unique_known": 998,
+            "unique_new": 1621,
+            "total_tokens": 19004,
+            "known_tokens": 14023
         }
-    ]
+    }
+]
